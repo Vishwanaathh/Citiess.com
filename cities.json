@@ -1,0 +1,187 @@
+{
+    "cities": {
+      "New York": {
+        "country": "United States",
+        "population": 8398748,
+        "landmark": "Statue of Liberty",
+        "timezone": "Eastern Time (ET)"
+      },
+      "Los Angeles": {
+        "country": "United States",
+        "population": 3999759,
+        "landmark": "Hollywood Sign",
+        "timezone": "Pacific Time (PT)"
+      },
+      "Chicago": {
+        "country": "United States",
+        "population": 2716000,
+        "landmark": "Willis Tower",
+        "timezone": "Central Time (CT)"
+      },
+      "London": {
+        "country": "United Kingdom",
+        "population": 8982000,
+        "landmark": "Big Ben",
+        "timezone": "Greenwich Mean Time (GMT)"
+      },
+      "Paris": {
+        "country": "France",
+        "population": 2140526,
+        "landmark": "Eiffel Tower",
+        "timezone": "Central European Time (CET)"
+      },
+      "Berlin": {
+        "country": "Germany",
+        "population": 3769495,
+        "landmark": "Brandenburg Gate",
+        "timezone": "Central European Time (CET)"
+      },
+      "Rome": {
+        "country": "Italy",
+        "population": 2872800,
+        "landmark": "Colosseum",
+        "timezone": "Central European Time (CET)"
+      },
+      "Tokyo": {
+        "country": "Japan",
+        "population": 13929286,
+        "landmark": "Tokyo Tower",
+        "timezone": "Japan Standard Time (JST)"
+      },
+      "Sydney": {
+        "country": "Australia",
+        "population": 5312163,
+        "landmark": "Sydney Opera House",
+        "timezone": "Australian Eastern Standard Time (AEST)"
+      },
+      "Mumbai": {
+        "country": "India",
+        "population": 12442373,
+        "landmark": "Gateway of India",
+        "timezone": "Indian Standard Time (IST)"
+      },
+    
+      "Cairo": {
+        "country": "Egypt",
+        "population": 10007695,
+        "landmark": "Pyramids of Giza",
+        "timezone": "Eastern European Time (EET)"
+      },
+      "Johannesburg": {
+        "country": "South Africa",
+        "population": 957441,
+        "landmark": "Apartheid Museum",
+        "timezone": "South Africa Standard Time (SAST)"
+      },
+      "Dubai": {
+        "country": "United Arab Emirates",
+        "population": 3133328,
+        "landmark": "Burj Khalifa",
+        "timezone": "Gulf Standard Time (GST)"
+      },
+      "New Delhi": {
+        "country": "India",
+        "population": 30236341,
+        "landmark": "India Gate",
+        "timezone": "Indian Standard Time (IST)"
+      },
+      "Sao Paulo": {
+        "country": "Brazil",
+        "population": 12252023,
+        "landmark": "São Paulo Museum of Art",
+        "timezone": "Brasília Time (BRT)"
+      },
+      "Mexico City": {
+        "country": "Mexico",
+        "population": 9183325,
+        "landmark": "Palacio de Bellas Artes",
+        "timezone": "Central Standard Time (CST)"
+      },
+      "Toronto": {
+        "country": "Canada",
+        "population": 2731571,
+        "landmark": "CN Tower",
+        "timezone": "Eastern Time (ET)"
+      },
+      "Moscow": {
+        "country": "Russia",
+        "population": 12678079,
+        "landmark": "Saint Basil's Cathedral",
+        "timezone": "Moscow Time (MSK)"
+      },
+      "Istanbul": {
+        "country": "Turkey",
+        "population": 15519267,
+        "landmark": "Hagia Sophia",
+        "timezone": "Turkey Time (TRT)"
+      },
+      "Madrid": {
+        "country": "Spain",
+        "population": 3348536,
+        "landmark": "Royal Palace of Madrid",
+        "timezone": "Central European Time (CET)"
+      },
+      "Lisbon": {
+        "country": "Portugal",
+        "population": 547733,
+        "landmark": "Belem Tower",
+        "timezone": "Western European Time (WET)"
+      },
+      "New Orleans": {
+        "country": "United States",
+        "population": 391006,
+        "landmark": "French Quarter",
+        "timezone": "Central Time (CT)"
+      },
+      "Buenos Aires": {
+        "country": "Argentina",
+        "population": 2891082,
+        "landmark": "Obelisco de Buenos Aires",
+        "timezone": "Argentina Time (ART)"
+      },
+      "Cape Town": {
+        "country": "South Africa",
+        "population": 3787334,
+        "landmark": "Table Mountain",
+        "timezone": "South Africa Standard Time (SAST)"
+      },
+      "Nairobi": {
+        "country": "Kenya",
+        "population": 4397073,
+        "landmark": "Nairobi National Park",
+        "timezone": "East Africa Time (EAT)"
+      },
+      "Marrakech": {
+        "country": "Morocco",
+        "population": 928850,
+        "landmark": "Jardin Majorelle",
+        "timezone": "Western European Time (WET)"
+      },
+      "Dublin": {
+        "country": "Ireland",
+        "population": 553165,
+        "landmark": "Dublin Castle",
+        "timezone": "Greenwich Mean Time (GMT)"
+      },
+      "Doha": {
+        "country": "Qatar",
+        "population": 956460,
+        "landmark": "The Pearl-Qatar",
+        "timezone": "Arabian Standard Time (AST)"
+      },
+      "Riyadh": {
+        "country": "Saudi Arabia",
+        "population": 7318816,
+        "landmark": "Kingdom Centre Tower",
+        "timezone": "Arabian Standard Time (AST)"
+      },
+      "Hyderabad": {
+        "country": "India",
+        "population": 10135451,
+        "landmark": "Charminar",
+        "timezone": "Indian Standard Time (IST)"
+      }}
+      
+
+  }
+  
